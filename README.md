@@ -12,11 +12,7 @@ This repository serves as a central showcase for our submission to the **Fawry A
 
 ### 🏆 Achievement: Top 8 Finalist & Team
 
-Here is a photo of our team certificate after qualifying for the finals. This accomplishment reflects our dedication to building effective, real-world AI solutions under competitive pressure.
-
-**_--- Instructions for you ---_**
-**To add your photo, first upload the image file to this GitHub repository.**
-**Then, replace `URL_TO_YOUR_CERTIFICATE_PHOTO.jpg` below with the name of your uploaded image file.**
+Here is a photo of me and my teammate certificate after qualifying for the finals. This accomplishment reflects our dedication to building effective, real-world AI solutions under competitive pressure.
 
 ![Fawry Competition Certificate](https://github.com/MHamdyK/Fawry-AI-Rising-Gen-Showcase/blob/main/Fawry_Competition.jpeg?raw=true)
 
