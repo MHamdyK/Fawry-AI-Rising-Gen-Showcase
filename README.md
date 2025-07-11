@@ -10,7 +10,7 @@ This repository serves as a central showcase for our submission to the **Fawry A
 
 ---
 
-### 🏆 Achievement: Top 8 Finalist & Team
+### 🏆 Achievement: Top 8 Finalist out of 150+ participants
 
 Here is a photo of me and my teammate certificate after qualifying for the finals. This accomplishment reflects our dedication to building effective, real-world AI solutions under competitive pressure.
 
